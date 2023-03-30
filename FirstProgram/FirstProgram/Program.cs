@@ -40,6 +40,33 @@ namespace FirstProgram
 
             Console.WriteLine();
             Console.WriteLine( z + " tem " + idade + " anos e seu sexo é: " + genero);
+            Console.WriteLine();
+
+            //EXERCICIO FIXAÇÃO
+
+            Console.WriteLine("********** EXERCICIO FIXAÇÃO **********");
+
+            string produto1 = "Computador";
+            string produto2 = "Mesa de escritorio";
+
+            byte idades = 30;
+            int codigo = 5290;
+            char generos = 'M';
+
+            double preco1 = 2100.0;
+            double preco2 = 650.50;
+            double medida = 53.234567;
+
+            Console.WriteLine("Produtos:");
+            Console.WriteLine($"{produto1}, cujo preço é ${preco1:F2}");
+            Console.WriteLine($"{produto2}, cujo preço é ${preco2:F2}");
+            Console.WriteLine();
+            Console.WriteLine($"Registro: {idades} anos de idade, código {codigo} e genêro: {generos}");
+            Console.WriteLine();
+            Console.WriteLine($"Medida com oito casas decimais: {medida:F8}");
+            Console.WriteLine($"Arrendondado três casas decimais: {medida:F3}!!");
+            Console.WriteLine($"Separados decimal invariant culture: {medida:F3}!!");
+            
 
             Console.ReadLine();
         }
