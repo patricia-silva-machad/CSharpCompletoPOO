@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patri\\Cursos-Udemy\\CSharpCompletoPOO\\FirstProgram\\FirstProgram\\FirstProgram.csproj": {}
+    "C:\\Users\\patri\\Cursos-Udemy\\Dotnet6-Udemy\\CSharpCompletoPOO\\FirstProgram\\FirstProgram\\FirstProgram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patri\\Cursos-Udemy\\CSharpCompletoPOO\\FirstProgram\\FirstProgram\\FirstProgram.csproj": {
+    "C:\\Users\\patri\\Cursos-Udemy\\Dotnet6-Udemy\\CSharpCompletoPOO\\FirstProgram\\FirstProgram\\FirstProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patri\\Cursos-Udemy\\CSharpCompletoPOO\\FirstProgram\\FirstProgram\\FirstProgram.csproj",
+        "projectUniqueName": "C:\\Users\\patri\\Cursos-Udemy\\Dotnet6-Udemy\\CSharpCompletoPOO\\FirstProgram\\FirstProgram\\FirstProgram.csproj",
         "projectName": "FirstProgram",
-        "projectPath": "C:\\Users\\patri\\Cursos-Udemy\\CSharpCompletoPOO\\FirstProgram\\FirstProgram\\FirstProgram.csproj",
+        "projectPath": "C:\\Users\\patri\\Cursos-Udemy\\Dotnet6-Udemy\\CSharpCompletoPOO\\FirstProgram\\FirstProgram\\FirstProgram.csproj",
         "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patri\\Cursos-Udemy\\CSharpCompletoPOO\\FirstProgram\\FirstProgram\\obj\\",
+        "outputPath": "C:\\Users\\patri\\Cursos-Udemy\\Dotnet6-Udemy\\CSharpCompletoPOO\\FirstProgram\\FirstProgram\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\patri\\AppData\\Roaming\\NuGet\\NuGet.Config",

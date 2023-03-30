@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1nawH2JJaGDlXn5pqbyRUtR+/wcnEeSHjy8ubQQCiBspqgAQdrQnjwGVYa9D/Xni584Cy6ufwg0g8CfRjcRMWw==",
+  "dgSpecHash": "0X4tT9cbZ0SgoQ0oEf4CbtMtL93rJ0VPu1mJrnpTywqBR7MgmSHhVMbtCf3xpf++H/X/dPDWMDGE9AvOBO3p8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\patri\\Cursos-Udemy\\CSharpCompletoPOO\\FirstProgram\\FirstProgram\\FirstProgram.csproj",
+  "projectFilePath": "C:\\Users\\patri\\Cursos-Udemy\\Dotnet6-Udemy\\CSharpCompletoPOO\\FirstProgram\\FirstProgram\\FirstProgram.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
