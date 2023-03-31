@@ -64,10 +64,9 @@ namespace FirstProgram
             Console.WriteLine($"Registro: {idades} anos de idade, código {codigo} e genêro: {generos}");
             Console.WriteLine();
             Console.WriteLine($"Medida com oito casas decimais: {medida:F8}");
-            Console.WriteLine($"Arrendondado três casas decimais: {medida:F3}!!");
-            Console.WriteLine($"Separados decimal invariant culture: {medida:F3}!!");
-            
-
+            Console.WriteLine($"Arrendondado três casas decimais: {medida:F3}");
+            Console.WriteLine("Separador decimal invariant culture: "+ medida.ToString("F3", CultureInfo.InvariantCulture));
+           
             Console.ReadLine();
         }
     }
