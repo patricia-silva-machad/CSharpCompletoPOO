@@ -1,0 +1,15 @@
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\FirstProgram\SecondProgram\bin\Debug\net6.0\SecondProgram.exe
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\FirstProgram\SecondProgram\bin\Debug\net6.0\SecondProgram.deps.json
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\FirstProgram\SecondProgram\bin\Debug\net6.0\SecondProgram.runtimeconfig.json
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\FirstProgram\SecondProgram\bin\Debug\net6.0\SecondProgram.dll
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\FirstProgram\SecondProgram\bin\Debug\net6.0\SecondProgram.pdb
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\FirstProgram\SecondProgram\obj\Debug\net6.0\SecondProgram.csproj.AssemblyReference.cache
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\FirstProgram\SecondProgram\obj\Debug\net6.0\SecondProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\FirstProgram\SecondProgram\obj\Debug\net6.0\SecondProgram.AssemblyInfoInputs.cache
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\FirstProgram\SecondProgram\obj\Debug\net6.0\SecondProgram.AssemblyInfo.cs
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\FirstProgram\SecondProgram\obj\Debug\net6.0\SecondProgram.csproj.CoreCompileInputs.cache
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\FirstProgram\SecondProgram\obj\Debug\net6.0\SecondProgram.dll
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\FirstProgram\SecondProgram\obj\Debug\net6.0\refint\SecondProgram.dll
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\FirstProgram\SecondProgram\obj\Debug\net6.0\SecondProgram.pdb
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\FirstProgram\SecondProgram\obj\Debug\net6.0\SecondProgram.genruntimeconfig.cache
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\FirstProgram\SecondProgram\obj\Debug\net6.0\ref\SecondProgram.dll
