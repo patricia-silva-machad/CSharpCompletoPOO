@@ -4,54 +4,25 @@ namespace MyApp
 {
     internal class Program {
         static void Main(string[] args) {
-            int a = 10;
+
+            string frase = Console.ReadLine();
+            string x = Console.ReadLine();
+            string y = Console.ReadLine();
+            string z = Console.ReadLine();
+
+            string[] v = Console.ReadLine().Split(' ');
+            string a = v[0];    
+            string b = v[1];
+            string c = v[2];
+
+            Console.WriteLine("voce digitou: ");
+            Console.WriteLine(frase);
+            Console.WriteLine(x);
+            Console.WriteLine(y);
+            Console.WriteLine(z);
             Console.WriteLine(a);
-
-            a++;
-            Console.WriteLine(a);
-
-            a += 2;
-            Console.WriteLine(a);
-
-            a *= 3;
-            Console.WriteLine(a);
-
-            string s = "ABC";
-            Console.WriteLine(s);
-
-            s += "DEF";
-            Console.WriteLine(s);
-
-            double an;
-            float bs;
-
-            an = 5.1;
-            bs = (float) an;
-            Console.WriteLine(bs);
-
-
-            Console.WriteLine("*********************************************************************");
-            int n1 = 3 + 4 * 2;
-            int n2 = (3 + 4) * 2;
-            int n3 = 17 % 3;
-            double n4 = 10.0 / 8.0;
-            double ai = 1.0, b = -3.0, c = -4.0;
-            double delta = Math.Pow(b, 2.0) - 4.0 * ai * c;
-            double x1 = (-b + Math.Sqrt(delta)) / (2.0 * ai);
-            double x2 = (-b - Math.Sqrt(delta)) / (2.0 * ai);
-
-
-            Console.WriteLine(n1);
-            Console.WriteLine(n2);
-            Console.WriteLine(n3);
-            Console.WriteLine(n4);
-            Console.WriteLine(delta);
-            Console.WriteLine(x1);
-            Console.WriteLine(x2);
-
-
-
-
+            Console.WriteLine(b);
+            Console.WriteLine(c);
 
         }
     }
