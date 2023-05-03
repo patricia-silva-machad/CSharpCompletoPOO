@@ -1,0 +1,15 @@
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\Program's\Debuggin\Debuggin\bin\Debug\net6.0\Debuggin.exe
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\Program's\Debuggin\Debuggin\bin\Debug\net6.0\Debuggin.deps.json
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\Program's\Debuggin\Debuggin\bin\Debug\net6.0\Debuggin.runtimeconfig.json
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\Program's\Debuggin\Debuggin\bin\Debug\net6.0\Debuggin.dll
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\Program's\Debuggin\Debuggin\bin\Debug\net6.0\Debuggin.pdb
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\Program's\Debuggin\Debuggin\obj\Debug\net6.0\Debuggin.csproj.AssemblyReference.cache
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\Program's\Debuggin\Debuggin\obj\Debug\net6.0\Debuggin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\Program's\Debuggin\Debuggin\obj\Debug\net6.0\Debuggin.AssemblyInfoInputs.cache
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\Program's\Debuggin\Debuggin\obj\Debug\net6.0\Debuggin.AssemblyInfo.cs
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\Program's\Debuggin\Debuggin\obj\Debug\net6.0\Debuggin.csproj.CoreCompileInputs.cache
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\Program's\Debuggin\Debuggin\obj\Debug\net6.0\Debuggin.dll
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\Program's\Debuggin\Debuggin\obj\Debug\net6.0\refint\Debuggin.dll
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\Program's\Debuggin\Debuggin\obj\Debug\net6.0\Debuggin.pdb
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\Program's\Debuggin\Debuggin\obj\Debug\net6.0\Debuggin.genruntimeconfig.cache
+C:\Users\patri\Cursos-Udemy\Dotnet6-Udemy\CSharpCompletoPOO\Program's\Debuggin\Debuggin\obj\Debug\net6.0\ref\Debuggin.dll
