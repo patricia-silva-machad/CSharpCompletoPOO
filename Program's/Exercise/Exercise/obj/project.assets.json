@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patri\\Cursos-Udemy\\Dotnet6-Udemy\\CSharpCompletoPOO\\Program's\\FirstProgram\\FirstProgram.csproj",
-      "projectName": "FirstProgram",
-      "projectPath": "C:\\Users\\patri\\Cursos-Udemy\\Dotnet6-Udemy\\CSharpCompletoPOO\\Program's\\FirstProgram\\FirstProgram.csproj",
+      "projectUniqueName": "C:\\Users\\patri\\Cursos-Udemy\\Dotnet6-Udemy\\CSharpCompletoPOO\\Program's\\Exercise\\Exercise\\Exercise.csproj",
+      "projectName": "Exercise",
+      "projectPath": "C:\\Users\\patri\\Cursos-Udemy\\Dotnet6-Udemy\\CSharpCompletoPOO\\Program's\\Exercise\\Exercise\\Exercise.csproj",
       "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patri\\Cursos-Udemy\\Dotnet6-Udemy\\CSharpCompletoPOO\\Program's\\FirstProgram\\obj\\",
+      "outputPath": "C:\\Users\\patri\\Cursos-Udemy\\Dotnet6-Udemy\\CSharpCompletoPOO\\Program's\\Exercise\\Exercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\patri\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MyApp // Note: actual namespace depends on the project name.
+namespace MyApp 
 {
     internal class Program {
         static void Main(string[] args) {
@@ -14,7 +14,6 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             Console.WriteLine("Maior = " + resultado);
 
-            
         }
 
         static int Maior(int a, int b, int c) {
